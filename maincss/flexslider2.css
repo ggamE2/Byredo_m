@@ -177,9 +177,10 @@ html[xmlns] .flexslider .slides {
   cursor: pointer;
   color: #000;
 }
+/*멈춤버튼*/
 .flex-pauseplay a:before {
   font-family: "flexslider-icon";
-  font-size: 50px;
+  font-size: 20px;
   display: inline-block;
   content: '\f004';
 }
@@ -256,4 +257,3 @@ html[xmlns] .flexslider .slides {
   opacity: 1;
   cursor: default;
 }
-
