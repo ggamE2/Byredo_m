@@ -30,7 +30,6 @@ table{ border-collapse:collapse;}
 }
 
 .gnb:before{content:"";position:absolute;left:0;top:50px;height:320px;background:#fbfbfb;width:100%;display:none;}
-.gnb:hover:before{display:block;} /*있어도 되고 없어도됨*/
 
 
 .gnb>li{position: static; float:left;padding-right:70px;height: 30px;/*높이 x0*/}
