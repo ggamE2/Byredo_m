@@ -60,7 +60,10 @@
 /*cont10*/
 .cont10{display: none; }     
 .cont10_m{margin:150px auto 0;}     
-
+.cont10_m .text1{font:normal 18px "Share Tech Mono";  }
+.cont10_m .text1 span{ font-size: 22px;}
+     
+     
 /*cont18*/     
 .cont18{display: none;}      
 
@@ -133,6 +136,9 @@ z-index: 100;}
 /*cont10*/
 .cont10{display: none;} 
 .cont10_m{margin:150px auto 0;}     
+.cont10_m .text1{font:normal 26px "Share Tech Mono";  }
+.cont10_m .text1 span{ font-size: 30px;}
+     
      
 /*cont18*/
 .cont18 .txt2{display: none;}   
